@@ -6,6 +6,6 @@ The primary objective of this script is to investigate the immediate drivers of 
 
 ## Repository Structure
 
- analysis.R                                       # Main R script containing data processing, modeling, and plotting
- README.md                                        # Project documentation and execution instructions
- USAID_Nawiri_child_health_Sample data.csv        # 12-round longitudinal panel sample dataset
+1. analysis.R                                       # Main R script containing data processing, modeling, and plotting
+2. README.md                                        # Project documentation and execution instructions
+3. USAID_Nawiri_child_health_Sample data.csv        # 12-round longitudinal panel sample dataset
